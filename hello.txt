@@ -1,2 +1,2 @@
 Hello harsh commit
-hello conflicts harsh
+hello conflicts resolved
