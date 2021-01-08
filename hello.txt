@@ -1,2 +1,2 @@
 Hello harsh commit
-hello master merged commit
+hello conflicts harsh
